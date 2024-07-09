@@ -1,29 +1,45 @@
 {
   "files": {
+    "BST/README.md": [
+      {
+        "id": "7e2f2c73-7689-4c4e-a183-d7ba1ba97133",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    "Binary_Search/successfull_potions_spells.py": [
+      {
+        "id": "e3bcff37-9af1-48da-a1de-d1d086953c8e",
+        "line": 7,
+        "version": 244,
+        "index": 259
+      },
+      {
+        "id": "7aede8a7-aa9e-4776-a57a-f5e231a89b57",
+        "line": 8,
+        "version": 244,
+        "index": 260
+      },
+      {
+        "id": "a62e0645-bab8-4be9-b1ba-f780e8e898cb",
+        "line": 9,
+        "version": 244,
+        "index": 292
+      },
+      {
+        "id": "0d723baf-e816-481d-b12d-0f44b3db6bb9",
+        "line": 10,
+        "version": 244,
+        "index": 328
+      }
+    ],
     "main.py": [
       {
-        "id": "78a8c545-33ed-42f2-8470-ab0eb688ddb4",
-        "line": 1,
-        "version": 1818,
-        "index": 0
-      },
-      {
-        "id": "29d84bff-5d0c-4f07-b44a-07f27c31f892",
-        "line": 1,
-        "version": 1818,
-        "index": 0
-      },
-      {
-        "id": "42ae8e8d-18b9-4b50-9f4d-d4499cadd6af",
-        "line": 1,
-        "version": 1818,
-        "index": 0
-      },
-      {
-        "id": "67989d42-e7ef-46a6-90c4-730ccabd05e9",
-        "line": 1,
-        "version": 1818,
-        "index": 0
+        "id": "53600cc1-7dc2-4aae-be70-b7903a6244bd",
+        "line": 11,
+        "version": 1994,
+        "index": 188
       }
     ]
   }
