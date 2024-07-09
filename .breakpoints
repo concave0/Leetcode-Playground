@@ -8,38 +8,68 @@
         "index": 0
       }
     ],
+    "Binary_Search/koko_eating_bannas.py": [
+      {
+        "id": "ee8c2c7c-75e0-4d40-bad0-38255284b3b5",
+        "line": 36,
+        "version": 1015,
+        "index": 1048
+      },
+      {
+        "id": "8d662143-2eee-4413-8f23-ff054952d89f",
+        "line": 37,
+        "version": 1015,
+        "index": 1072
+      },
+      {
+        "id": "c5620d3e-e1f4-47c0-bad6-d8fc9c3281a6",
+        "line": 38,
+        "version": 1015,
+        "index": 1147
+      },
+      {
+        "id": "d19e11df-e88a-4d0b-a2a4-04e122ca038a",
+        "line": 39,
+        "version": 1015,
+        "index": 1220
+      },
+      {
+        "id": "85929c84-e034-4577-9855-c82e44669cb7",
+        "line": 40,
+        "version": 1015,
+        "index": 1273
+      },
+      {
+        "id": "e5c4b4a5-2bae-451d-b26a-8f1711d0c966",
+        "line": 41,
+        "version": 1015,
+        "index": 1297
+      }
+    ],
     "Binary_Search/successfull_potions_spells.py": [
       {
         "id": "e3bcff37-9af1-48da-a1de-d1d086953c8e",
         "line": 7,
-        "version": 244,
+        "version": 522,
         "index": 259
       },
       {
         "id": "7aede8a7-aa9e-4776-a57a-f5e231a89b57",
         "line": 8,
-        "version": 244,
+        "version": 522,
         "index": 260
       },
       {
         "id": "a62e0645-bab8-4be9-b1ba-f780e8e898cb",
-        "line": 9,
-        "version": 244,
-        "index": 292
+        "line": 8,
+        "version": 522,
+        "index": 291
       },
       {
         "id": "0d723baf-e816-481d-b12d-0f44b3db6bb9",
-        "line": 10,
-        "version": 244,
-        "index": 328
-      }
-    ],
-    "main.py": [
-      {
-        "id": "53600cc1-7dc2-4aae-be70-b7903a6244bd",
         "line": 11,
-        "version": 1994,
-        "index": 188
+        "version": 522,
+        "index": 358
       }
     ]
   }
