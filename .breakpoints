@@ -11,39 +11,39 @@
     "Binary_Search/koko_eating_bannas.py": [
       {
         "id": "ee8c2c7c-75e0-4d40-bad0-38255284b3b5",
-        "line": 36,
-        "version": 1015,
-        "index": 1048
+        "line": 22,
+        "version": 1164,
+        "index": 780
       },
       {
         "id": "8d662143-2eee-4413-8f23-ff054952d89f",
-        "line": 37,
-        "version": 1015,
-        "index": 1072
+        "line": 22,
+        "version": 1164,
+        "index": 780
       },
       {
         "id": "c5620d3e-e1f4-47c0-bad6-d8fc9c3281a6",
-        "line": 38,
-        "version": 1015,
-        "index": 1147
+        "line": 22,
+        "version": 1164,
+        "index": 780
       },
       {
         "id": "d19e11df-e88a-4d0b-a2a4-04e122ca038a",
-        "line": 39,
-        "version": 1015,
-        "index": 1220
+        "line": 22,
+        "version": 1164,
+        "index": 780
       },
       {
         "id": "85929c84-e034-4577-9855-c82e44669cb7",
-        "line": 40,
-        "version": 1015,
-        "index": 1273
+        "line": 22,
+        "version": 1164,
+        "index": 780
       },
       {
         "id": "e5c4b4a5-2bae-451d-b26a-8f1711d0c966",
-        "line": 41,
-        "version": 1015,
-        "index": 1297
+        "line": 22,
+        "version": 1164,
+        "index": 780
       }
     ],
     "Binary_Search/successfull_potions_spells.py": [
